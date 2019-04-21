@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - case
+  - Slot
+  - DragItem
+  - Item
+  - menu
+  - less_4
+  - data
+  - player
+  - advengement
+  - training
+  - batle
+  - range
+  - Chane money
+  - block_1
+  - less_3
+  - block_4
+  - block_3
+  - textMoney
+  - Point
+  - EndPoint
+  - 1_menu_soc
+  - 2_block_4_vk
+  - 3_less_4_vk_1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
